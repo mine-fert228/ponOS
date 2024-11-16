@@ -1,0 +1,1 @@
+start C:\Users\User\source\repos\podsos\podsos\bin\Debug\podsos.exe

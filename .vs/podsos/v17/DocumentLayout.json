@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\podsos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{387FF12A-B830-4985-8E28-826473102C19}|podsos\\podsos.csproj|c:\\users\\user\\source\\repos\\podsos\\podsos\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387FF12A-B830-4985-8E28-826473102C19}|podsos\\podsos.csproj|solutionrelative:podsos\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387FF12A-B830-4985-8E28-826473102C19}|podsos\\podsos.csproj|c:\\users\\user\\source\\repos\\podsos\\podsos\\main\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387FF12A-B830-4985-8E28-826473102C19}|podsos\\podsos.csproj|solutionrelative:podsos\\main\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387FF12A-B830-4985-8E28-826473102C19}|podsos\\podsos.csproj|c:\\users\\user\\source\\repos\\podsos\\podsos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387FF12A-B830-4985-8E28-826473102C19}|podsos\\podsos.csproj|solutionrelative:podsos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\podsos\\podsos\\Program.cs",
+              "RelativeDocumentMoniker": "podsos\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\podsos\\podsos\\Program.cs",
+              "RelativeToolTip": "podsos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:22:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\podsos\\podsos\\main\\init.cs",
+              "RelativeDocumentMoniker": "podsos\\main\\init.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\podsos\\podsos\\main\\init.cs",
+              "RelativeToolTip": "podsos\\main\\init.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:02:19.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\podsos\\podsos\\Kernel.cs",
+              "RelativeDocumentMoniker": "podsos\\Kernel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\podsos\\podsos\\Kernel.cs",
+              "RelativeToolTip": "podsos\\Kernel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAALsCAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:01:24.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
